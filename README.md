@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hola, soy Hiram Carreño Armenta 👋
 
-<!--
-**Abiff11/Abiff11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Ingeniero en Sistemas Computacionales y Fullstack Developer enfocado en construir sistemas web institucionales, modulares y orientados a procesos reales.
 
-Here are some ideas to get you started:
+## 🚀 Stack principal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Backend: NestJS, Node.js, TypeORM
+- Frontend: React, TypeScript, Vite
+- Base de datos: PostgreSQL
+- Infraestructura: Docker, Render, Vercel
+- Almacenamiento: Cloudflare R2
+- Autenticación: JWT, Guards, roles y permisos
+- Reportes: Excel y PDF
+
+## 🧩 Proyectos destacados
+
+### Plantilla Vehicular PVE
+Sistema para registro, control y validación de unidades vehiculares, con roles, fotografías, reportes y despliegue a producción.
+
+### Tarjetas Informativas
+Sistema para captura, consulta y análisis operativo con dashboards, reportes, roles y actualizaciones en tiempo real.
+
+### Gastroflow
+Proyecto colaborativo con flujo de ramas, Pull Requests, backend y frontend separados.
+
+## 🎯 Enfoque profesional
+
+Me interesa desarrollar soluciones que automaticen procesos, reduzcan trabajo manual y conviertan información operativa en datos útiles para la toma de decisiones.
+
+## 📫 Contacto
+
+- LinkedIn: https://www.linkedin.com/in/hiram-carreño-armenta-3a39703bb
+
+Create profile README
