@@ -17,7 +17,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **Ingeniero en Sistemas Computacionales** y **Fullstack Developer** enfocado en construir sistemas web modernos, modulares y orientados a resolver procesos reales.
+Hola! mi nombre es Hiram Carreño soy **Ingeniero en Sistemas Computacionales** y **Fullstack Developer** enfocado en construir sistemas web modernos, modulares y orientados a resolver procesos reales.
 
 Trabajo principalmente con **NestJS, React, PostgreSQL, TypeScript y Docker**, desarrollando APIs REST, autenticación JWT, roles y permisos, dashboards, carga de archivos y aplicaciones fullstack.
 
