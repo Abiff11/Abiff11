@@ -137,7 +137,7 @@ Me interesa seguir creciendo en **arquitectura backend, diseño de sistemas, clo
 
 ### Soy Henry  
 **Full Stack Web Developer**  
-JavaScript · React · Node.js · PostgreSQL · Metodologías ágiles
+JavaScript ·TypeScript · React · Node.js · Nestjs · PostgreSQL · MongoDb · Metodologías ágiles
 
 ---
 
