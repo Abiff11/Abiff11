@@ -112,25 +112,6 @@ Me interesa seguir creciendo en **arquitectura backend, diseño de sistemas, clo
 
 ---
 
-## 💼 Experiencia
-
-### Fullstack Developer · Policía Vial Estatal Oaxaca  
-**2025 - Actualidad**
-
-- Desarrollo de sistemas web institucionales orientados a procesos operativos y administrativos.
-- Implementación de APIs REST, autenticación JWT, roles y permisos.
-- Desarrollo frontend con React y TypeScript para dashboards, formularios y paneles administrativos.
-- Gestión de carga de imágenes/documentos y arquitectura modular.
-
-### Supervisor de Operaciones · Automatización Sysne de México  
-**2023 - 2025**
-
-- Supervisión de operaciones y seguimiento de incidencias.
-- Elaboración de reportes y análisis de información operativa.
-- Optimización de procesos administrativos mediante herramientas digitales.
-
----
-
 ## 🎓 Educación
 
 ### IEU Universidad  
@@ -142,16 +123,16 @@ JavaScript · React · Node.js · PostgreSQL · Metodologías ágiles
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Contacto
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abiff11&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abiff11&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
+<p align="center">
+  <a href="mailto:hiramcarr@live.com.mx">
+    <img src="https://img.shields.io/badge/Email-hiramcarr%40live.com.mx-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/hiram-carreno-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-Hiram%20Carreño-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 <div align="center">
 
