@@ -83,6 +83,11 @@ Me interesa seguir creciendo en **arquitectura backend, diseño de sistemas, clo
         <li>Reportes administrativos</li>
         <li>Arquitectura modular</li>
       </ul>
+      <p>
+        <a href="https://github.com/Abiff11/Plantilla_vehicular_PVE_2.1.git">
+          <img src="https://img.shields.io/badge/Repositorio-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
     </td>
     <td width="33%" valign="top">
       <h3>📋 Tarjetas Informativas</h3>
@@ -95,6 +100,11 @@ Me interesa seguir creciendo en **arquitectura backend, diseño de sistemas, clo
         <li>Tiempo real</li>
         <li>APIs REST</li>
       </ul>
+      <p>
+        <a href="https://github.com/Abiff11/Tarjetas_informativas_PVE.git">
+          <img src="https://img.shields.io/badge/Repositorio-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
     </td>
     <td width="33%" valign="top">
       <h3>🍽️ Gastroflow</h3>
@@ -106,6 +116,14 @@ Me interesa seguir creciendo en **arquitectura backend, diseño de sistemas, clo
         <li>Flujo con ramas y Pull Requests</li>
         <li>Módulos administrativos</li>
       </ul>
+      <p>
+        <a href="https://github.com/Abiff11/Gastroflow-Frontend.git">
+          <img src="https://img.shields.io/badge/Frontend-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://github.com/Abiff11/GastroFlow-Backend.git">
+          <img src="https://img.shields.io/badge/Backend-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
